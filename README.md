@@ -25,7 +25,7 @@ This project focuses on detecting fake news within the BuzzFeed subset of the Fa
 ## Key Results
 
 * EDA identified several differentiators (e.g., title length, exclamation mark usage, source reputation, meta keyword usage, spreader activity).
-* The Random Forest model using **Content + Selected Metadata (Macro F1: ~0.693)** outperformed the **Content-Only model (Macro F1: ~0.673)**, indicating the value of well-chosen metadata.
+* The Random Forest model using **Content + Selected Metadata (Macro F1: ~0.714)** outperformed the **Content-Only model (Macro F1: ~0.629)**, indicating the value of well-chosen metadata.
 
 ## Repository Contents
 
